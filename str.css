@@ -1,0 +1,39 @@
+div{
+    background-color: rgb(159, 228, 159);
+margin:20px 20px;
+}
+
+#btn-add ,#num2 ,#num1 {
+     display: flex;
+flex-direction: column;
+margin-top: 20px;
+ font-size: 40px;
+ color:darkgreen;
+  margin-left: 20px;
+  width:280px;
+  border-radius: 9px;
+  border-style: solid;
+  border-color: darkgreen;
+  background-color: rgb(125, 183, 125);
+  color:darkgreen
+}
+#first,#Second{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 10px;
+     color:darkgreen;
+      margin-left: 20px;
+}
+#calci{
+    font-size: 70px;
+    color:darkgreen;
+     margin-left: 20px;
+}
+#result{
+    font-size: 40px;
+    color:darkgreen;
+     margin-left: 20px;
+}
+body{
+    margin-left: 20px;
+}
